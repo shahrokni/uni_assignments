@@ -28,3 +28,17 @@ In the following section you can find a comprehensive list of exercises which mu
 - [ ] Simple crypto
 - [ ] Time validation
 - [ ] Printing information (seyed.mahmoud.shahrokni.1990)
+
+# How to compile
+
+To compile the CPP file simply run the following command.
+
+```bash
+g++ your_file_name.cpp -o program
+```
+
+Then, simply run
+
+```bash
+./program
+```
