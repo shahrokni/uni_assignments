@@ -7,7 +7,7 @@ In the following section you can find a comprehensive list of exercises which mu
 
 # Exercises
 
-- [ ] Static square (10.10)
+- [X] Static square (10.10)
 - [ ] Dynamic square
 - [ ] Half pyramid
 - [ ] Full pyramid
