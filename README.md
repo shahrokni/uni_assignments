@@ -5,39 +5,6 @@ The main collaborator of the Repo is Mr. **Seyed Reza Shahrokni** (**_Reza_**) a
 All pull requests should be reviewed and confirmed by **_Mahmoud_** before they get merged into the main branch.
 In the following section you can find a comprehensive list of exercises which must be completed by **_Reza_**.
 
-# Exercises
-
-- [x] Static square (10.10) / draw_static_square.c
-- [x] Dynamic square (Nested For loop structure) / draw_dynamic_square_with_for.c
-- [ ] Dynamic square (Nested While loop structure) / draw_dynamic_square_with_while.c
-- [x] What happens if we use float or double in for loop? / count_with_double_loop.c
-- [ ] Half pyramid (Nested For loop structure)
-- [ ] Half pyramid (Nested While loop structure)
-- [ ] Full pyramid (For loop structure)
-- [ ] Full pyramid (While loop structure)
-- [ ] Empty square (For loop structure)
-- [ ] Empty square (While loop structure)
-- [ ] Characters are only numbers
-- [ ] Lower and upper case detector
-- [ ] Blinking names (rEzA, mAhMoUd)
-- [ ] Print student's scores
-- [ ] Count even numbers (1D)
-- [ ] Students and average of scores
-- [ ] Shopping cart with 20% discount
-- [ ] Print shopping cart's items
-- [ ] Print shopping cart's price
-- [ ] Reverse number
-- [ ] Base 10 to 2 conversion
-- [ ] Base 2 to 10 conversion
-- [ ] Count even numbers (2D)
-- [ ] Moving on the grid (print i and j)
-- [ ] Queen hit
-- [ ] Simple crypto
-- [ ] Time validation
-- [ ] Printing information (seyed.mahmoud.shahrokni.1990)
-- [ ] Basic calculator with main operations
-- [ ] Check-mate detector
-
 # How to build?
 
 To **ease and automate** the compiling process, a file has been created in `.vscode` folder.
@@ -72,5 +39,54 @@ To run and see the results you can simply run the following command
 
 # What is debugging?
 
-Debugging is one of the most important aspects of software engineering. Simply speaking, debugging lets you know what happens under the hood.
-With debugging you can find out why and where your application logic goes wrong, so you can easily fix it.
+Debugging is one of the most important aspects of software development. Simply speaking, debugging lets you know what happens under the hood, when the application is running.
+
+## With debugging you can:
+
+- Find out why and where your application logic goes wrong
+- Fix your application's issues
+- Comprehend complex logics
+
+## How to debug?
+
+A file called launch.json has been already added to the project under the `.vscode` folder. This file instructs how the debugger should start working.
+
+- Set some `breakpoints`
+- Press `Ctrl + Shift + B` and make sure the built output is updated
+- Press `Ctrl + Shift + D`
+- Press `F5`
+
+![Debugger example](public/debug-example.png)
+
+# Exercises
+
+- [x] Static square (10.10) / draw_static_square.c
+- [x] Dynamic square (Nested For loop structure) / draw_dynamic_square_with_for.c
+- [ ] Dynamic square (Nested While loop structure) / draw_dynamic_square_with_while.c
+- [x] What happens if we use float or double in for loop? / count_with_double_loop.c
+- [ ] Half pyramid (Nested For loop structure)
+- [ ] Half pyramid (Nested While loop structure)
+- [ ] Full pyramid (For loop structure)
+- [ ] Full pyramid (While loop structure)
+- [ ] Empty square (For loop structure)
+- [ ] Empty square (While loop structure)
+- [ ] Characters are only numbers
+- [ ] Lower and upper case detector
+- [ ] Blinking names (rEzA, mAhMoUd)
+- [ ] Print student's scores
+- [ ] Count even numbers (1D)
+- [ ] Students and average of scores
+- [ ] Shopping cart with 20% discount
+- [ ] Print shopping cart's items
+- [ ] Print shopping cart's price
+- [ ] Reverse number
+- [ ] Base 10 to 2 conversion
+- [ ] Base 2 to 10 conversion
+- [ ] Count even numbers (2D)
+- [ ] Moving on the grid (print i and j)
+- [ ] Queen hit
+- [ ] Simple crypto
+- [ ] Time validation
+- [ ] Printing information (seyed.mahmoud.shahrokni.1990)
+- [ ] Basic calculator with main operations
+- [ ] Check-mate detector
