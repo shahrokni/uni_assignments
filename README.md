@@ -5,6 +5,19 @@ The main collaborator of the Repo is Mr. **Seyed Reza Shahrokni** (**_Reza_**) a
 All pull requests should be reviewed and confirmed by **_Mahmoud_** before they get merged into the main branch.
 In the following section you can find a comprehensive list of exercises which must be completed by **_Reza_**.
 
+# How should you add your exercise to the repository?
+
+As it has been already discussed a repository is a place in which you develop and maintain your project or simply a **_Version Control_**
+A _version control_ like Git has two parts which are server and client. The Repository maintainer, in this case **Mahmoud**, gives you access to the repo, so you can **contribute**
+
+For the **very first time** you need to **clone** the repository. Clone operation is like downloading the project from server.
+
+To clone the repository you can run the following command:
+
+```
+local_address/uni_assignment$ git clone https://github.com/shahrokni/uni_assignments.git
+```
+
 # How to build?
 
 To **ease and automate** the compiling process, a file has been created in `.vscode` folder.
