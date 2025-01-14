@@ -1,0 +1,8 @@
+# Ignore all executable files
+*.exe
+*.out
+*.bin
+*.elf
+*.a
+*.so
+*.dll
