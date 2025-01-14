@@ -7,9 +7,12 @@ In the following section you can find a comprehensive list of exercises which mu
 
 # Exercises
 
-- [X] Static square (10.10)
-- [ ] Dynamic square
-- [ ] Half pyramid
+- [x] Static square (10.10)
+- [x] Dynamic square (Nested For loop structure)
+- [ ] Dynamic square (Nested While loop structure)
+- [x] What happens if we use float or double in for loop?
+- [ ] Half pyramid (Nested For loop structure)
+- [ ] Half pyramid (Nested While loop structure)
 - [ ] Full pyramid
 - [ ] Basic calculator with main operations
 - [ ] Lower-case detector
