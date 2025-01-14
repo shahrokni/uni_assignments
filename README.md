@@ -7,16 +7,29 @@ In the following section you can find a comprehensive list of exercises which mu
 
 # How should you add your exercise to the repository?
 
-As it has been already discussed a repository is a place in which you develop and maintain your project or simply a **_Version Control_**
+As it has been already discussed a repository is a place in which you develop and maintain your project or simply a **_Version Control_**.
 A _version control_ like Git has two parts which are server and client. The Repository maintainer, in this case **Mahmoud**, gives you access to the repo, so you can **contribute**
 
-For the **very first time** you need to **clone** the repository. Clone operation is like downloading the project from server.
+For the **very first time** you need to **clone** the repository. Clone operation is like downloading the project from the server.
 
 To clone the repository you can run the following command:
 
 ```
-local_address/uni_assignment$ git clone https://github.com/shahrokni/uni_assignments.git
+git clone https://github.com/shahrokni/uni_assignments.git
 ```
+
+Every repository has a main branch of changes which is the most updated one. It is usually called either `Master` or `Main`.
+When you want to work on something new,
+
+- Make sure you are on the `Main` branch
+- Update the `Main` branch from server to get other's changes
+- Create a subbranch from the `Main`
+- Add your work there
+- Push your new branch to the server
+- Create a pull request to merge the changes of your branch to the `Main` branch
+- Assign the pull-request to a reviewer
+
+You should add your exercises under their dedicated folders. For example, here as you can see we have `draw_static_picture`
 
 # How to build?
 
