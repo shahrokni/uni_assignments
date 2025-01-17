@@ -1,0 +1,4 @@
+#ifndef DRAW_STATIC_HALF_PYRAMID_WHILE
+#define DRAW_STATIC_HALF_PYRAMID_WHILE
+void draw_static_half_pyramid_while();
+#endif
