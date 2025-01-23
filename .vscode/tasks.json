@@ -13,9 +13,9 @@
         "${workspaceFolder}/draw_static_square/draw_static_square.cpp",
         "${workspaceFolder}/draw_dynamic_square_for/draw_dynamic_square_for.cpp",
         "${workspaceFolder}/draw_static_half_pyramid_for/draw_static_half_pyramid_for.cpp",
-        "${workspaceFolder}/draw_static_half_pyramid_while/draw_static_half_pyramid_while.cpp"
-
-
+        "${workspaceFolder}/draw_static_half_pyramid_while/draw_static_half_pyramid_while.cpp",
+        "${workspaceFolder}/draw_static_full_pyramid_for/draw_static_full_pyramid_for.cpp"
+        
       ],
       "group": {
         "kind": "build",
