@@ -96,7 +96,7 @@ A file called launch.json has been already added to the project under the `.vsco
 - [ ] Full pyramid (While loop structure)
 - [ ] Empty square (For loop structure)
 - [ ] Empty square (While loop structure)
-- [ ] Square illusion!
+- [ ] Square illusion! (Nested squares with min 2x2)
 - [ ] Characters are only numbers
 - [ ] Lower and upper case detector
 - [ ] Blinking names (rEzA, mAhMoUd)
