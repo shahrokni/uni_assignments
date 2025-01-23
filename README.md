@@ -90,12 +90,13 @@ A file called launch.json has been already added to the project under the `.vsco
 - [x] Dynamic square (Nested For loop structure) / draw_dynamic_square_with_for.c
 - [ ] Dynamic square (Nested While loop structure) / draw_dynamic_square_with_while.c
 - [x] What happens if we use float or double in for loop? / count_with_double_loop.c
-- [ ] Half pyramid (Nested For loop structure)
-- [ ] Half pyramid (Nested While loop structure)
-- [ ] Full pyramid (For loop structure)
+- [x] Half pyramid (Nested For loop structure)
+- [x] Half pyramid (Nested While loop structure)
+- [x] Full pyramid (For loop structure) **_NOT MERGED_**
 - [ ] Full pyramid (While loop structure)
 - [ ] Empty square (For loop structure)
 - [ ] Empty square (While loop structure)
+- [ ] Square illusion!
 - [ ] Characters are only numbers
 - [ ] Lower and upper case detector
 - [ ] Blinking names (rEzA, mAhMoUd)
