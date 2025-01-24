@@ -15,7 +15,8 @@
         "${workspaceFolder}/draw_static_half_pyramid_for/draw_static_half_pyramid_for.cpp",
         "${workspaceFolder}/draw_static_half_pyramid_while/draw_static_half_pyramid_while.cpp",
         "${workspaceFolder}/draw_static_full_pyramid_for/draw_static_full_pyramid_for.cpp",
-        "${workspaceFolder}/check_lowercase_uppercase/check_lowercase_uppercase.cpp"
+        "${workspaceFolder}/check_lowercase_uppercase/check_lowercase_uppercase.cpp",
+        "${workspaceFolder}/print_chars_a_z/print_chars_a_z.cpp"
 
        
       ],
