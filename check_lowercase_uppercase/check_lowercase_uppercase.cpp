@@ -13,7 +13,8 @@ void check_lowercase_uppercase() {
     if (input >= 'A' && input <= 'Z') {
       cout << "Uppercase!";
     } else {
-      cout << "Not recognize!\a";
+      cout << "Not recognize!\n";
     }
   }
+  cout << '\n';
 }
