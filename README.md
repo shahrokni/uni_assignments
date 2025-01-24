@@ -23,6 +23,7 @@ Every repository has a main branch of changes which is the **most updated** one.
 When you want to work on a new assignment, a new method for instance,
 
 - Make sure you are in the `Main` branch. `git checkout main`
+  - Always remove your old, useless branches `git branch -D BRANCH_NAME`
 - Update the `Main` branch from server to get last updates. `git pull`
 - Create a sub-branch from the `Main` branch. `git checkout -b YOUR_BRANCH_NAME`
 - Complete your task and make sure it is working.
