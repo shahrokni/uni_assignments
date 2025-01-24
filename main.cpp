@@ -4,6 +4,7 @@
 #include "draw_static_half_pyramid_for/draw_static_half_pyramid_for.h"
 #include "draw_static_half_pyramid_while/draw_static_half_pyramid_while.h"
 #include "draw_static_full_pyramid_for/draw_static_full_pyramid_for.h"
+#include "Lowercase_Uppercase/Lowercase_Uppercase.h"
 #include <iostream>
 
 int main() {
@@ -11,7 +12,8 @@ int main() {
   // draw_dynamic_square_for();
   // draw_static_half_pyramid_for();
  // draw_static_half_pyramid_while();
- draw_static_full_pyramid_for();
+ //draw_static_full_pyramid_for();
+ Lowercase_Uppercase();
   return 0;
   
 }
