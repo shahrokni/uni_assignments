@@ -86,34 +86,44 @@ A file called launch.json has been already added to the project under the `.vsco
 
 # Exercises
 
-- [x] Static square (10.10) / draw_static_square.c
-- [x] Dynamic square (Nested For loop structure) / draw_dynamic_square_with_for.c
-- [ ] Dynamic square (Nested While loop structure) / draw_dynamic_square_with_while.c
-- [x] What happens if we use float or double in for loop? / count_with_double_loop.c
-- [x] Half pyramid (Nested For loop structure)
-- [x] Half pyramid (Nested While loop structure)
-- [x] Full pyramid (For loop structure) **_NOT MERGED_**
-- [ ] Full pyramid (While loop structure)
-- [ ] Empty square (For loop structure)
-- [ ] Empty square (While loop structure)
-- [ ] Square illusion! (Nested squares with min 2x2)
-- [ ] Characters are only numbers
+- [x] Draw a static square (10.10)
+- [x] Draw a dynamic square (Nested For loop structure)
+- [ ] Draw a dynamic square (Nested While loop structure)
+- [x] What happens if we use float or double in for loop?
+- [x] Draw a half pyramid (Nested For loop structure)
+- [x] Draw a half pyramid (Nested While loop structure)
+- [x] Draw a full pyramid (For loop structure)
+- [ ] Draw a full pyramid (While loop structure)
+- [x] Draw an empty square (For loop structure) **_NOT MERGED_**
+- [ ] Draw an empty square (While loop structure)
+- [ ] Draw a square illusion! (Nested squares with min 2x2)
+- [ ] Draw Arc de Triomphe in Paris (For loop structure)
+- [ ] Draw Arc de Triomphe in Paris (While loop structure)
+- [x] Characters are only numbers **_Theory_**
 - [ ] Lower and upper case detector
+- [ ] Using a single char variable and a loop, print a,b,c,...,z
+- [ ] Using a single char variable and a loop, print A,B,C,..,Z
+- [ ] Using a single char variable and a loop, print a,B,c,D,...
+- [ ] Using a single char variable and a loop, print A,b,C,d,...
+- [ ] What is the sum of '1' + 1? What are numeric characters?
 - [ ] Blinking names (rEzA, mAhMoUd)
 - [ ] Print student's scores
-- [ ] Count even numbers (1D)
-- [ ] Students and average of scores
+- [ ] Count even numbers in an array
+- [ ] Calculate the average scores of students stored in an array
 - [ ] Shopping cart with 20% discount
 - [ ] Print shopping cart's items
 - [ ] Print shopping cart's price
+- [ ] Print shopping cart's items and their prices
+- [ ] Airport ATC report. Calculate the final altitude
+- [ ] Basic calculator with main operations
+- [ ] Simple crypto
 - [ ] Reverse number
 - [ ] Base 10 to 2 conversion
 - [ ] Base 2 to 10 conversion
-- [ ] Count even numbers (2D)
 - [ ] Moving on the grid (print i and j)
+- [ ] Rendering the map
 - [ ] Queen hit
-- [ ] Simple crypto
 - [ ] Time validation
 - [ ] Printing information (seyed.mahmoud.shahrokni.1990)
-- [ ] Basic calculator with main operations
-- [ ] Check-mate detector
+- [ ] Game - Check-mate detector
+- [ ] Game - Snake
