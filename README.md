@@ -97,6 +97,7 @@ A file called launch.json has been already added to the project under the `.vsco
 - [x] Draw an empty square (For loop structure) **_NOT MERGED_**
 - [ ] Draw an empty square (While loop structure)
 - [ ] Draw a square illusion! (Nested squares with min 2x2)
+- [ ] Draw a cross
 - [ ] Draw Arc de Triomphe in Paris (For loop structure)
 - [ ] Draw Arc de Triomphe in Paris (While loop structure)
 - [x] Characters are only numbers **_Theory_**
