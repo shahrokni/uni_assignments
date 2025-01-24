@@ -15,9 +15,9 @@
         "${workspaceFolder}/draw_static_half_pyramid_for/draw_static_half_pyramid_for.cpp",
         "${workspaceFolder}/draw_static_half_pyramid_while/draw_static_half_pyramid_while.cpp",
         "${workspaceFolder}/draw_static_full_pyramid_for/draw_static_full_pyramid_for.cpp",
-        "${workspaceFolder}/Lowercase_Uppercase/Lowercase_Uppercase.cpp"
+        "${workspaceFolder}/check_lowercase_uppercase/check_lowercase_uppercase.cpp"
 
-        
+       
       ],
       "group": {
         "kind": "build",

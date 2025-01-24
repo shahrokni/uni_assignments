@@ -1,20 +1,20 @@
 #include <iostream>
 using namespace std;
 
-void Lowercase_Uppercase()
+void check_lowercase_uppercase()
 {
-    char K;
+    char input;
 
     cout << "Please enter a character:\n";
-    cin >> K;
+    cin >> input;
 
-    if ((int)K > 96 && (int)K < 123)
+    if (input >= 'a' && input <= 'z')
     {
         cout << "Lowercase!";
     }
     else
     {
-        if ((int)K > 64 && (int)K < 91)
+        if (input >= 'A' && input <= 'Z')
         {
             cout << "Uppercase!";
         }
