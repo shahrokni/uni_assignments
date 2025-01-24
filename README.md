@@ -142,3 +142,4 @@ A file called launch.json has been already added to the project under the `.vsco
 - [ ] Printing information (seyed.mahmoud.shahrokni.1990)
 - [ ] Game - Check-mate detector
 - [ ] Game - Snake
+- [ ] Game of life
