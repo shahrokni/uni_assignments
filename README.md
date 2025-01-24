@@ -18,16 +18,27 @@ To clone the repository you can run the following command:
 git clone https://github.com/shahrokni/uni_assignments.git
 ```
 
-Every repository has a main branch of changes which is the most updated one. It is usually called either `Master` or `Main`.
-When you want to work on something new,
+Every repository has a main branch of changes which is the **most updated** one. In real world these branches are the so-called **production ready**. It is usually called `Main`.
 
-- Make sure you are on the `Main` branch
-- Update the `Main` branch from server to get other's changes
-- Create a subbranch from the `Main`
-- Add your work there
-- Push your new branch to the server
+When you want to work on a new assignment, a new method for instance,
+
+- Make sure you are in the `Main` branch. `git checkout main`
+- Update the `Main` branch from server to get last updates. `git pull`
+- Create a sub-branch from the `Main` branch. `git checkout -b YOUR_BRANCH_NAME`
+- Complete your task and make sure it is working.
+- It is time to send your **new** branch to the server, so it exists on both client and sever
+  - Add all your changes to the box `git add .`
+  - Write the information on the box `git commit -m "YOUR MESSAGE"`
+  - Push the new branch and ask to be created if it doesn't exist on the other side `git push -u origin YOUR_BRANCH_NAME`
+  - You will be asked to enter your username and password to have a secure transaction
 - Create a pull request to merge the changes of your branch to the `Main` branch
-- Assign the pull-request to a reviewer
+  - Assign the PR to yourself
+  - Pick someone as the reviewer of the task
+    - Here you may have some comments from the reviewer asking you to fix the issues
+      - Fix the mentioned issues
+      - Add them again `git add .`
+      - Commit again `git commit -m "YOUR MESSAGE"`
+      - Now push on the **existing** server side branch again `git push -f`
 
 You should add your exercises under their dedicated folders. For example, here as you can see we have `draw_static_picture`
 
