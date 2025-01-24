@@ -1,5 +1,7 @@
 # University Assignments
 
+![Hacker](public/hacker.png)
+
 This repository has been created by senior software engineer **Seyed Mahmoud Shahrokni** (**_Mahmoud_**).
 The main collaborator of the Repo is Mr. **Seyed Reza Shahrokni** (**_Reza_**) as a junior C++ developer.
 All pull requests should be reviewed and confirmed by **_Mahmoud_** before they get merged into the main branch.
@@ -113,7 +115,7 @@ A file called launch.json has been already added to the project under the `.vsco
 - [ ] Draw Arc de Triomphe in Paris (For loop structure)
 - [ ] Draw Arc de Triomphe in Paris (While loop structure)
 - [x] Characters are only numbers **_Theory_**
-- [ ] Lower and upper case detector
+- [x] Check lower and upper case
 - [ ] Using a single char variable and a loop, print a,b,c,...,z
 - [ ] Using a single char variable and a loop, print A,B,C,..,Z
 - [ ] Using a single char variable and a loop, print a,B,c,D,...
